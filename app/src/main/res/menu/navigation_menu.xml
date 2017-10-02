@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:id="@+id/nav_home"
+        android:title="Home"/>
+
+    <item android:id="@+id/nav_veichles"
+        android:icon="@mipmap/ic_person_black_24dp"
+        android:title="I tuoi mezzi"/>
+
+
+    <item android:id="@+id/nav_maintenance"
+        android:icon="@mipmap/ic_build_black_24dp"
+        android:title="Manutenzione"/>
+
+
+    <item android:id="@+id/nav_pics"
+        android:icon="@mipmap/ic_lightbulb_outline_black_24dp"
+        android:title="Consigli"/>
+
+
+    <item android:id="@+id/nav_settings"
+        android:icon="@mipmap/ic_settings_black_24dp"
+        android:title="Impostazioni"/>
+
+
+
+
+</menu>
